@@ -13,7 +13,7 @@
 }
 
 body {
-  background: url('../img/bg-image.svg') no-repeat;
+  background: url('/img/bg-image.svg') no-repeat;
   background-size: cover;
   font-family: Be Vietnam Pro;
   display: flex;
